@@ -1,0 +1,13 @@
+"F:\IAR\arm\bin\armproc.dll" 
+
+"F:\IAR\arm\bin\armsim2.dll" 
+
+"D:\develop\git\crazepony-firmware-rtthread\bsp\stm32f10x\Debug\Exe\project.out" 
+
+--plugin="F:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="F:\IAR\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+
+
+
